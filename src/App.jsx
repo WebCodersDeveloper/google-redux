@@ -12,7 +12,7 @@ export default function App() {
   const [url, setUrl] = useState("");
   const [showForm, setShowForm] = useState(false);
   const [showBtn, setShowBtn] = useState(false);
-  const [menu, setMenu] = useState(true);
+  // const [menu, setMenu] = useState(true);
   const [remove, setRemove] = useState(false);
 
   // const shouldShowAddButton = selector.length < 10;
